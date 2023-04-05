@@ -116,5 +116,3 @@
   jmp ax （类似于 mov IP, ax）
   jmp bx 
   ```
-
-  
